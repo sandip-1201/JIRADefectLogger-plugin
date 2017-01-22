@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkinsci.plugins
+Short-Name: testExample
+Long-Name: Test Example
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-01/21/2017 16:59-SANDIP)
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: 
+Libraries: D:\it\JPluginWorkspace\testExample\src\main\resources,D:\it
+ \JPluginWorkspace\testExample\target\classes
+Resource-Path: D:\it\JPluginWorkspace\testExample\src\main\webapp
+

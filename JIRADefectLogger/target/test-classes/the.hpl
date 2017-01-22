@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkinsci.plugins
+Short-Name: JIRADefectLogger
+Long-Name: JIRA Defect Logger
+Url: https://wiki.jenkins-ci.org/display/JENKINS/JIRADefectLogger
+Plugin-Version: 1.0-SNAPSHOT (private-01/22/2017 20:24-SANDIP)
+Hudson-Version: 1.628
+Jenkins-Version: 1.628
+Plugin-Developers: Sandip Bhattacharjee:sandip_1201:sandipbhattacharje
+ e1201@gmail.com
+Support-Dynamic-Loading: true
+Libraries: D:\it\JPluginWorkspace\JIRADefectLogger\src\main\resources,
+ D:\it\JPluginWorkspace\JIRADefectLogger\target\classes,C:\Users\SANDI
+ P\.m2\repository\org\json\json\20090211\json-20090211.jar,C:\Users\SA
+ NDIP\.m2\repository\com\sun\jersey\jersey-client\1.8\jersey-client-1.
+ 8.jar,C:\Users\SANDIP\.m2\repository\com\sun\jersey\jersey-core\1.8\j
+ ersey-core-1.8.jar
+Resource-Path: D:\it\JPluginWorkspace\JIRADefectLogger\src\main\webapp
+

@@ -1,0 +1,6 @@
+META-INF\annotations\hudson.Extension
+org\jenkinsci\plugins\JIRADefectLogger\DefectPublisher\DescriptorImpl\doCheckProjectkey.stapler
+org\jenkinsci\plugins\JIRADefectLogger\DefectPublisher\DescriptorImpl\doCheckIssuetype.stapler
+org\jenkinsci\plugins\JIRADefectLogger\DefectPublisher\DescriptorImpl\doCheckDefectxml.stapler
+org\jenkinsci\plugins\JIRADefectLogger\DefectPublisher.stapler
+org\jenkinsci\plugins\JIRADefectLogger\DefectPublisher\DescriptorImpl\doCheckUrl.stapler
